@@ -11,7 +11,7 @@ Django 3.x
 Django REST Framework 3.x
 Installation
 1) Clone the repository:
-git clone https://github.com/your-username/todo-task-api.git
+git clone https://github.com/nihal-1998/palletfly_TodoTask_question.git
 
 2)Install the dependencies:
 pip install -r requirements.txt
